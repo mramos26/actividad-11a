@@ -1,0 +1,47 @@
+table {
+  border-collapse: collapse;
+}
+
+.principal{
+	color: brown;
+}
+
+strong{
+	color: blue;
+}
+
+#secundario{
+	color: orange;
+}
+
+li{
+	color: sienna;
+}
+
+.resalte{
+	color: green;
+}
+
+caption{
+	color: magenta;
+}
+
+#cadena{
+	color: aqua;
+}
+
+#prohi{
+	color: red;
+}
+
+td{
+	color:red;
+}
+
+th{
+	color: red;
+}
+
+#pan{
+	color: violet;
+}
